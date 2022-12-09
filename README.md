@@ -44,9 +44,10 @@ deaf people will also be able to use the service conveniently.
 1. main_0_Get_Image.m : Get image from webcam or camera
 2. main_0_ImageSegment.m : Segment images obtained from "main_0_Get_Image"
 3. Execute ImageLabeler from matlab tool
-4. Click AutoLabeling button(labeling settings are coded in #1 autolabel_0_createMask #2 autolabel_1_objectlabel #3 autolabel_2_HandDetection)
-5. main_1_Data_construct_seg.m : Store labeled Images as data
-6. main_2_ResNet_based_YOLO.m : Model to be trained
-7. main_3_Training_seg.m : Training Model with data
-8. main_4_Evaluation.m : Visualize train result
-9. main_4_Realtime_handseg.m : Detect sign language real-time
+4. Click AutoLabeling button(labeling settings are coded in #1 autolabel_0_createMask 
+5. #2 autolabel_1_objectlabel #3 autolabel_2_HandDetection)
+6. main_1_Data_construct_seg.m : Store labeled Images as data
+7. main_2_ResNet_based_YOLO.m : Model to be trained
+8. main_3_Training_seg.m : Training Model with data
+9. main_4_Evaluation.m : Visualize train result
+10. main_4_Realtime_handseg.m : Detect sign language real-time
