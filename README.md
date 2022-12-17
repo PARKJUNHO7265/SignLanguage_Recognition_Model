@@ -1,4 +1,4 @@
-# Capstone Design
+# Real-time sign language gesture recognition model
 
 <h3>About project</h3>
 
@@ -9,9 +9,7 @@ This is the project which we have been proceeded in Sungkyunkwan University for 
 **Team Members** : Electronic electrical Engineer 박준호 김효준 류지환
 Mathematician 박소정
   
-<h3>Subject</h3>
-
-**Real-time sign language gesture recognition model**
+<h3>For what?</h3>
 
 As a result of the 2017 survey of the people who have deafness, 
 
