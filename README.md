@@ -11,7 +11,7 @@ Mathematician 박소정
   
 <h3>For what?</h3>
 
-As a result of the 2017 survey of the people who have deafness, 
+According to the result of the 2017 survey of the people who have deafness, 
 
 69.3% of all respondents responded that sign language was the most used communication method.
 
