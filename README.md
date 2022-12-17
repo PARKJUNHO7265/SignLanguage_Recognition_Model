@@ -1,4 +1,4 @@
-# Real-time sign language gesture recognition model
+# Real-time sign language recognition model
 
 <h3>About project</h3>
 
