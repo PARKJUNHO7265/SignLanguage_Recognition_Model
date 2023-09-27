@@ -1,3 +1,4 @@
+%Augmentation
 function out = function_jitterImageColorAndWarp(data)
 % Unpack original data.
 I = data{1};
