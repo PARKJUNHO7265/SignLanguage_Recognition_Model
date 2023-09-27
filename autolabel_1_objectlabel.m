@@ -1,3 +1,4 @@
+%autolabel1
 function [labelCord, label] = autolabel_1_objectlabel(I, algObj)
     [BW, ~] = autolabel_0_createMask(I);
 
