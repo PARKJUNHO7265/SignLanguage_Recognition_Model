@@ -1,3 +1,4 @@
+%autolabel
 function [BW,maskedRGBImage] = autolabel_0_createMask(RGB)
 % Convert RGB image to chosen color space
 I = rgb2ycbcr(RGB);
