@@ -1,3 +1,4 @@
+%autolabel2
 classdef autolabel_2_HandDetection < vision.labeler.AutomationAlgorithm
     properties(Constant)
         Name = 'Hand Detection';
